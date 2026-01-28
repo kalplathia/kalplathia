@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Kalp 👋
 
-<!--
-**kalplathia/kalplathia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack Engineer with 6+ years of experience building production-grade AI agent systems, automation pipelines, and scalable web platforms.
 
-Here are some ideas to get you started:
+## What I work on
+- AI agent systems (single-agent & multi-agent workflows)
+- LLM-powered automation and orchestration
+- Backend services and APIs for data-intensive systems
+- Full-stack applications with a strong focus on reliability and scalability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+- TypeScript, JavaScript, Python
+- Node.js, Angular, React, Next.js
+- AI / LLM integrations, agentic workflows
+- AWS, cloud-based deployments
+
+> Note: Most of my work lives in private or organization-owned repositories due to company policies.
