@@ -13,5 +13,3 @@ Senior Full-Stack Engineer with 6+ years of experience building production-grade
 - Node.js, Angular, React, Next.js
 - AI / LLM integrations, agentic workflows
 - AWS, cloud-based deployments
-
-> Note: Most of my work lives in private or organization-owned repositories due to company policies.
