@@ -13,3 +13,6 @@ Senior Full-Stack Engineer with 6+ years of experience building production-grade
 - Node.js, Angular, React, Next.js
 - AI / LLM integrations, agentic workflows
 - AWS, cloud-based deployments
+
+
+![Kalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalplathia&show_icons=true&theme=dark)
